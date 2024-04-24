@@ -1,0 +1,14 @@
+/home/moroshma/RiderProjects/lab1/lab1/bin/Debug/net8.0/lab1
+/home/moroshma/RiderProjects/lab1/lab1/bin/Debug/net8.0/lab1.deps.json
+/home/moroshma/RiderProjects/lab1/lab1/bin/Debug/net8.0/lab1.runtimeconfig.json
+/home/moroshma/RiderProjects/lab1/lab1/bin/Debug/net8.0/lab1.dll
+/home/moroshma/RiderProjects/lab1/lab1/bin/Debug/net8.0/lab1.pdb
+/home/moroshma/RiderProjects/lab1/lab1/obj/Debug/net8.0/lab1.GeneratedMSBuildEditorConfig.editorconfig
+/home/moroshma/RiderProjects/lab1/lab1/obj/Debug/net8.0/lab1.AssemblyInfoInputs.cache
+/home/moroshma/RiderProjects/lab1/lab1/obj/Debug/net8.0/lab1.AssemblyInfo.cs
+/home/moroshma/RiderProjects/lab1/lab1/obj/Debug/net8.0/lab1.csproj.CoreCompileInputs.cache
+/home/moroshma/RiderProjects/lab1/lab1/obj/Debug/net8.0/lab1.dll
+/home/moroshma/RiderProjects/lab1/lab1/obj/Debug/net8.0/refint/lab1.dll
+/home/moroshma/RiderProjects/lab1/lab1/obj/Debug/net8.0/lab1.pdb
+/home/moroshma/RiderProjects/lab1/lab1/obj/Debug/net8.0/lab1.genruntimeconfig.cache
+/home/moroshma/RiderProjects/lab1/lab1/obj/Debug/net8.0/ref/lab1.dll

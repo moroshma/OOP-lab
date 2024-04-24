@@ -1,0 +1,14 @@
+/home/moroshma/RiderProjects/lab1/lab_1_3/bin/Debug/net8.0/lab_1_3
+/home/moroshma/RiderProjects/lab1/lab_1_3/bin/Debug/net8.0/lab_1_3.deps.json
+/home/moroshma/RiderProjects/lab1/lab_1_3/bin/Debug/net8.0/lab_1_3.runtimeconfig.json
+/home/moroshma/RiderProjects/lab1/lab_1_3/bin/Debug/net8.0/lab_1_3.dll
+/home/moroshma/RiderProjects/lab1/lab_1_3/bin/Debug/net8.0/lab_1_3.pdb
+/home/moroshma/RiderProjects/lab1/lab_1_3/obj/Debug/net8.0/lab_1_3.GeneratedMSBuildEditorConfig.editorconfig
+/home/moroshma/RiderProjects/lab1/lab_1_3/obj/Debug/net8.0/lab_1_3.AssemblyInfoInputs.cache
+/home/moroshma/RiderProjects/lab1/lab_1_3/obj/Debug/net8.0/lab_1_3.AssemblyInfo.cs
+/home/moroshma/RiderProjects/lab1/lab_1_3/obj/Debug/net8.0/lab_1_3.csproj.CoreCompileInputs.cache
+/home/moroshma/RiderProjects/lab1/lab_1_3/obj/Debug/net8.0/lab_1_3.dll
+/home/moroshma/RiderProjects/lab1/lab_1_3/obj/Debug/net8.0/refint/lab_1_3.dll
+/home/moroshma/RiderProjects/lab1/lab_1_3/obj/Debug/net8.0/lab_1_3.pdb
+/home/moroshma/RiderProjects/lab1/lab_1_3/obj/Debug/net8.0/lab_1_3.genruntimeconfig.cache
+/home/moroshma/RiderProjects/lab1/lab_1_3/obj/Debug/net8.0/ref/lab_1_3.dll

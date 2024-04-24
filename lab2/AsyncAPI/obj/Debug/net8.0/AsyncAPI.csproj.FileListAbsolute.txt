@@ -1,0 +1,14 @@
+/home/moroshma/RiderProjects/lab2/AsyncAPI/bin/Debug/net8.0/AsyncAPI
+/home/moroshma/RiderProjects/lab2/AsyncAPI/bin/Debug/net8.0/AsyncAPI.deps.json
+/home/moroshma/RiderProjects/lab2/AsyncAPI/bin/Debug/net8.0/AsyncAPI.runtimeconfig.json
+/home/moroshma/RiderProjects/lab2/AsyncAPI/bin/Debug/net8.0/AsyncAPI.dll
+/home/moroshma/RiderProjects/lab2/AsyncAPI/bin/Debug/net8.0/AsyncAPI.pdb
+/home/moroshma/RiderProjects/lab2/AsyncAPI/obj/Debug/net8.0/AsyncAPI.GeneratedMSBuildEditorConfig.editorconfig
+/home/moroshma/RiderProjects/lab2/AsyncAPI/obj/Debug/net8.0/AsyncAPI.AssemblyInfoInputs.cache
+/home/moroshma/RiderProjects/lab2/AsyncAPI/obj/Debug/net8.0/AsyncAPI.AssemblyInfo.cs
+/home/moroshma/RiderProjects/lab2/AsyncAPI/obj/Debug/net8.0/AsyncAPI.csproj.CoreCompileInputs.cache
+/home/moroshma/RiderProjects/lab2/AsyncAPI/obj/Debug/net8.0/AsyncAPI.dll
+/home/moroshma/RiderProjects/lab2/AsyncAPI/obj/Debug/net8.0/refint/AsyncAPI.dll
+/home/moroshma/RiderProjects/lab2/AsyncAPI/obj/Debug/net8.0/AsyncAPI.pdb
+/home/moroshma/RiderProjects/lab2/AsyncAPI/obj/Debug/net8.0/AsyncAPI.genruntimeconfig.cache
+/home/moroshma/RiderProjects/lab2/AsyncAPI/obj/Debug/net8.0/ref/AsyncAPI.dll
